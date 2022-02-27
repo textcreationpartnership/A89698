@@ -1,0 +1,273 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>No droll, but a rational account, making out the probable fall of the present, with the rise and succession of what the English world understand by the term of a free Parliament: in a letter to a friend.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 35 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89698</idno>
+            <idno type="STC">Wing N1175B</idno>
+            <idno type="STC">Thomason E1015_19</idno>
+            <idno type="STC">ESTC R32332</idno>
+            <idno type="EEBO-CITATION">99872320</idno>
+            <idno type="PROQUEST">99872320</idno>
+            <idno type="VID">168780</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89698)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168780)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 150:E1015[19])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>No droll, but a rational account, making out the probable fall of the present, with the rise and succession of what the English world understand by the term of a free Parliament: in a letter to a friend.</title>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for YE. [and Henry Brome,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dated at end: Black Monday, Jan. 30, 1660.</note>
+                  <note>Henry Brome's name from colophon.</note>
+                  <note>Annotation on Thomason copy: "Feb 14 1659".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Charles II, 1660-1685 --  Humor --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1660-1688 --  Humor --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168780:1" rendition="simple:additions"/>
+            <p>NO DROLL, BUT A RATIONAL ACCOUNT, Making out the probable <hi>Fall</hi> of the <hi>preſent,</hi> with the <hi>Riſe</hi> and <hi>Succeſsion</hi> of what the ENGLISH WORLD un<g ref="char:EOLhyphen"/>derſtand by the Term of A FREE PARLIAMENT:</p>
+            <p>In a Letter to a Friend.</p>
+            <q>
+               <bibl>1 Cor. 9. 1.</bibl> 
+               <p>Am I not a Free man?</p>
+            </q>
+            <p>LONDON, Printed for YE.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:168780:2"/>
+            <pb n="3" facs="tcp:168780:2"/>
+            <head>NO DROL, but a Rational ACCOUNT Making out the probable Fall of the <hi>preſent,</hi> with the <hi>Riſe</hi> and <hi>Succeſsion</hi> of what the ENGLISH WORLD underſtand by the term of a <hi>FREE PARLIAMENT.</hi>
+            </head>
+            <opener>
+               <salute>Sir,</salute>
+            </opener>
+            <p>DIſpenſing with thoſe Epiſtolary <hi>Careſſes,</hi> (with which friends entertain each other) I ſhall immediately without <hi>Prologue,</hi> give you an account of the grounds of my Confident perſwaſion, that our Engliſh affairs are not far from ſettling upon their old Bottome.</p>
+            <p>The <hi>Topicks</hi> from which I ſhall deduce my arguments, ſhall be from Conſiderations of the preſent Power called a <hi>Parliament,</hi> the <hi>Army,</hi> the <hi>Sectaries, Foreiners, General Monk.</hi> More heads I might pitch on, and more <hi>arguments</hi> might be raiſed from either of thoſe that have been mentioned: but I ſhall confine my ſelf, and preſent you at one view, ſuch which are <hi>plain</hi> and <hi>conſpicuous,</hi> to every one that hath but <hi>three hours</hi> leiſure to ſit ſtill and conſider, that being the
+<pb n="4" facs="tcp:168780:3"/>
+ſpace of time which I have allotted my ſelf, for the ſum<g ref="char:EOLhyphen"/>ming up of theſe following <hi>Reaſons.</hi>
+            </p>
+            <div type="part">
+               <head>Firſt this Parliament.</head>
+               <p>They are in great <hi>Contempt</hi> with the people univer<g ref="char:EOLhyphen"/>ſally, and are <hi>ſtigmatized</hi> with ſuch a name of <hi>Contempt,</hi> that every childs mouth <hi>is,</hi> as well, as every hiſtory hereafter <hi>will be</hi> full of: generally <hi>hated,</hi> very little either <hi>loved</hi> or <hi>feared. Such a power certainly cannot stand.</hi> But if it were granted, that they were either <hi>loved</hi> or <hi>feared</hi> (with one or both of which all the world by experience knows that a <hi>power</hi> that is likely to <hi>continue</hi> muſt be <hi>ſupported)</hi> yet the ſureſt mark or <hi>indicium</hi> of a <hi>fall</hi> (which <hi>verity</hi> it ſelf hath proclaimed as an indiſputable Maxim) appertains to <hi>them,</hi> and that is, <hi>An houſe divided againſt it ſelf cannot ſtand.</hi> For the <hi>Army,</hi> the <hi>Anabaptiſts,</hi> the <hi>Presby<g ref="char:EOLhyphen"/>terians,</hi> the <hi>Independents,</hi> the <hi>Protector,</hi> nay the <hi>King</hi> him<g ref="char:EOLhyphen"/>ſelf have each their friends amongſt them, which accor<g ref="char:EOLhyphen"/>ding to their ſeveral intereſts, do either <hi>diſorder,</hi> or <hi>diſcover Counſels,</hi> and put them upon ſuch <hi>extravagancies,</hi> that there appears to be little ſound wiſdome in their Re<g ref="char:EOLhyphen"/>ſolves.</p>
+               <p>Nay, though we ſhould conceive them to be all as <hi>one man,</hi> the affairs and concerns of the Nation are at this time ſo jumbled, and diſcompoſed (the publick diſtempers bearing ſome <hi>analogy</hi> and proportion to <hi>actue diſeaſes</hi> in the body, for which a ſudden remedy muſt be found) that it is not probable that many <hi>Phyſicians</hi> (eſpecially having little skill) can find out the <hi>Remedy,</hi> or by a timely con<g ref="char:EOLhyphen"/>currence pitch upon what may be ſor recovery, before the Patient hath breathed his laſt.</p>
+               <p>But leaving Similies, and to ſpeak <hi>plain Engliſh,</hi> they have made it their <hi>buſineſs,</hi> and do daily diſoblige ſuch which have been called the <hi>Parliaments friends;</hi> witneſſe their reſolve to put to ſale the Eſtates of the <hi>Boothians,</hi> which are very numerous in every County and City, and ſuch which have not yet felt ſo much, as the ſmart of Seque<g ref="char:EOLhyphen"/>ſtration, who no douby, rather than admit ſuch a Sentence to be executed, will rally that affair into better or<g ref="char:EOLhyphen"/>der,
+<pb n="5" facs="tcp:168780:3"/>
+being now better armed than they were, and have better laid their counſels, and intelligence, having the plauſible and lovely pretence (or rather the juſt end and deſign) of a <hi>Free Parliament.</hi>
+               </p>
+               <p>Now conſider, who are to manage the affair againſt their <hi>just</hi> and <hi>well ordered</hi> deſigns, even ſuch whoſe <hi>Gran<g ref="char:EOLhyphen"/>dees</hi> and leading men (as ſome could be named) are raſh, heady, inconſtant and extremely ill beloved, declining in their Reputations even with <hi>thoſe</hi> that are thought to be their <hi>Seconds,</hi> and <hi>Abettors.</hi>
+               </p>
+               <p>But provided that none of theſe things were known concerning them, <hi>(viz.)</hi> univerſal contempt, inteſtine Diviſions, diſtempers, for which a ſudden remedy is to be pitcht on, the ingrate character of diſobligation of friends, or were it that they had ſober <hi>Leaders,</hi> is it poſſible think you to eradicate out of the peoples minds a ſenſe (and that accompanied with a male-contentedneſſe) that they are not the fourth part of that <hi>Power</hi> they would have the <hi>people</hi> believe them to be, that is, the <hi>Repreſentatives</hi> of the <hi>Com<g ref="char:EOLhyphen"/>monalty,</hi> acting (in the excluſion of their fellow Members) what they have condemned in the <hi>Armies</hi> late <hi>Force</hi> as <hi>Trea<g ref="char:EOLhyphen"/>ſonable?</hi>
+               </p>
+               <p>And yet to ſee the ſtrange blindneſſe and <hi>deluſion</hi> of men, as it were, reſolved to ruine themſelves! How have they lately indevoured to ſtir up thoſe high degrees of <hi>dislike</hi> and <hi>hatred</hi> of the people to an unappeaſable rage, and fury, by a reſolution once again to <hi>inſlave</hi> their <hi>Conſciences</hi> with a <hi>Contradictory Oath</hi> of the <hi>Blackest Qualification</hi> (being ne<g ref="char:EOLhyphen"/>gative) in ſuch a juncture of affairs, when all things are full of <hi>mutation</hi> and <hi>inconſtancy;</hi> and when every one that hath any thing of <hi>Conſcience</hi> left alive, as to <hi>oaths,</hi> are rea<g ref="char:EOLhyphen"/>dy <hi>penitently</hi> to beg <hi>God</hi> forgiveneſſe for former <hi>perjuries,</hi> and are very loath to be intangled with more?</p>
+               <p>But true it is, and a ſad truth it is, there are too many that are ready (ſo they may ſecure their <hi>temporal)</hi> to ha<g ref="char:EOLhyphen"/>zard their <hi>eternal</hi> concernments; but our wiſe <hi>Senators,</hi> as if they were throughly ſtudied in the art of <hi>Self-Ruine,</hi> have contrived a way to loſe that may have throats
+<pb n="6" facs="tcp:168780:4"/>
+wide enough to ſwallow down any <hi>oath</hi> they'l preſent them with, and that is by the <hi>thundring vote</hi> of 100000 <hi>l. per menſem,</hi> which Tax they were about to impoſe before their laſt <hi>diſſolution,</hi> even upon the neck of fifteen months <hi>Tax</hi> in a Quarter of a year, and lately have reaſſumed the Debate. And though they have let it reſt a little while, yet there is no probability, that they can conclude of a way to keep off ſuch burthens, their debts with their <hi>Mi<g ref="char:EOLhyphen"/>litia</hi> being increaſed. Now there is no one that keeps hor<g ref="char:EOLhyphen"/>ſes, but knows, that a great burthen, coming upon a <hi>gal<g ref="char:EOLhyphen"/>led back,</hi> will make any beaſt fling off its <hi>Rider.</hi> If great <hi>Taxes</hi> and impoſitions upon a waſted people do not make them do the like, I loſe my conjecture.</p>
+               <p>
+                  <hi>A waſted people,</hi> I ſay, all Trade being dead and decayed, and no likelihood of Supplies for the <hi>alleviation</hi> of their intollerable preſſures from our <hi>Superiors</hi> mannagement of affairs: and this undoubtedlie is to be thought reaſon, that when a Nation grows univerſally neceſſitous, Fine words, plauſible Declarations, and fair promiſes, have but little <hi>efficacy,</hi> either to ſtop or allay a <hi>popular rage,</hi> which is every minute <hi>ready</hi> furiouſlie to break forth.</p>
+               <p>But it may be ſaid, that ſuch a ſuggeſtion is but a flou<g ref="char:EOLhyphen"/>riſh; when that we ſee a <hi>ſtreight rein</hi> carried on the neck of the people, by perſons eminent, and in Armes, will not ſuffer them to know their own ſtrength, and conſequent<g ref="char:EOLhyphen"/>ly will hinder that fury breaking forth. Some little plau<g ref="char:EOLhyphen"/>ſibleneſs ſeems to be in the <hi>objection,</hi> but that which wea<g ref="char:EOLhyphen"/>kens it, is: That this <hi>Parliament</hi> have not now a <hi>Cromwel,</hi> an <hi>Eſſex,</hi> a <hi>Fairfax,</hi> a <hi>Fleetwood,</hi> or a <hi>Lambert,</hi> for that work. And a ſenſe of their own weakneſs fills them full of jealouſies, even of ſuch, they would have the world believe they moſt <hi>love,</hi> and that ſeem to purſue and ſtreng<g ref="char:EOLhyphen"/>then their <hi>intereſt.</hi> Never had jealous husband more ſuſpi<g ref="char:EOLhyphen"/>tion of his <hi>wife,</hi> than they have of General <hi>Monk,</hi> and the jeſt of it is, that even Mr. <hi>Harrington</hi> himſelf is thought by ſome of the ſobereſt of them, to propoſe to the world his <hi>Oceana</hi> and <hi>Rota,</hi> as a pretty piece of <hi>problematical intrige,</hi> to pusſle and amuſe them in their intentions, that look towards that way of ſettlement.</p>
+               <p>
+                  <pb n="7" facs="tcp:168780:4"/>
+This, and other things Conſidered; I am of perſwaſion, that their friends are without name. The <hi>Anabaptiſts,</hi> they have diſcarded, put out of Commiſſion, disbanded, and the re-admiſſion of this or that particular ſelf-ſeeking per<g ref="char:EOLhyphen"/>ſon into favour ſince, will not reconcile that intereſt, or party. The <hi>Independents,</hi> they have loſt by their concluſi<g ref="char:EOLhyphen"/>ons in their chiefeſt <hi>cabal:</hi> that a National Church is ne<g ref="char:EOLhyphen"/>ceſſary. The <hi>Presbyterians,</hi> they fright from both their af<g ref="char:EOLhyphen"/>fection, and obedience, with the ſevere menace of <hi>Sale</hi> and <hi>Sequeſtration:</hi> And they muſt certainly deſpair of any <hi>Compliance</hi> from the Kings party, whether <hi>Papiſt</hi> or <hi>Prote<g ref="char:EOLhyphen"/>testant,</hi> they having been ſo ground and oppreſt by them: And I ſuppoſe all, or moſt of the <hi>young</hi> (and as yet unin<g ref="char:EOLhyphen"/>gaged) both <hi>Gentry</hi> and <hi>Clergy,</hi> that are new come into the world, have little affection, either for them or their waies, but breath after a ſettlement upon old foundations both in <hi>Church</hi> and <hi>State.</hi>
+               </p>
+               <p>The Symptoms and ſigns of which <hi>Epidemical diſaffecti<g ref="char:EOLhyphen"/>on</hi> (if no other be named) manifeſtly appears in the va<g ref="char:EOLhyphen"/>riety of bold Declarations, <hi>viz.</hi> of the <hi>City, Cornwal, De<g ref="char:EOLhyphen"/>vonſbire, Norfolk, Suffolk, Glocesterſhire, Cheſhire, Yorkſhire, Barkshire, Northamptonſhire, Kent</hi> and <hi>Lincolnſhire,</hi> and o<g ref="char:EOLhyphen"/>ther Counties following thoſe Preſidents, if well weigh<g ref="char:EOLhyphen"/>ed might be enough to make their hearts ake.</p>
+               <p>But how can they expect any <hi>friends,</hi> that neither are nor know how to be <hi>friends</hi> to themſelves? for though they may abound in little pieces of cunning and ſpightful artifi<g ref="char:EOLhyphen"/>ces, whatever other <hi>ſpirit</hi> they have, they have not amongſt them the true <hi>ſpirit of Government,</hi> which knows noblie and generouſlie the trulie wiſe and not craftie way of ſelf-pre<g ref="char:EOLhyphen"/>ſervation, and protection (not deſtruction and confuſion) of <hi>Subjects.</hi>
+               </p>
+               <p>Not to multiplie inſtances, one of the chiefeſt proper<g ref="char:EOLhyphen"/>ties of a well mannaged Government, is ſo to order affairs, as to be well provided with <hi>intelligence,</hi> that is trulie ſuch, and not tales, and trifling <hi>informations</hi> of <hi>Mercenary</hi> pick-thanks.</p>
+               <p>I have heard that ſince the late diſturbance, one of them
+<pb n="8" facs="tcp:168780:5"/>
+hath laid out 500 <hi>l.</hi> in <hi>intelligence:</hi> it is poſſible he might have had for his mony many canting Letters by the Poſt, acquain<g ref="char:EOLhyphen"/>ting him it may be that <hi>Queen Elizabeth</hi> is dead, I mean of ſuch things that cannot be prevented,—or perchance an<g ref="char:EOLhyphen"/>other <hi>Item</hi> in order to the <hi>ballance</hi> of that <hi>vaſt ſumme,</hi> may be the <hi>information</hi> of ſome few pimping, treacherous tell<g ref="char:EOLhyphen"/>tales, that frequent <hi>clubs</hi> and <hi>Coffee-</hi>houſes, whoſe chief buſineſs is to <hi>jilt</hi> others into diſcourſe, that ſpeaks their diſlike of the preſent <hi>Power</hi> and their proceedings; and what's the iſſue of all ſuch intelligence, but their own trouble and amazement? they being like him that's affe<g ref="char:EOLhyphen"/>cted with the <hi>Yellows,</hi> that is, very cunning to find a man in bed with his wife, and then runs <hi>Horn-mad;</hi> but for that noble kind of <hi>intelligence</hi> that ſearches the very <hi>veins</hi> and <hi>intrails</hi> of intereſts, either forein or domeſtick, they muſt needs be ſtrangers to; for to that, there is a ſtock of <hi>depth</hi> requiſite, and an honorable eſteem, ſo as to be received into Councels without ſuſpition; and though ſuch agents be ſuſpected, they muſt have parts ſufficient to <hi>weather</hi> ſuch a <hi>point.</hi>
+               </p>
+               <p>But the chiefeſt thing that puts <hi>Governors</hi> into a capacity of preſerving themſelves, and protecting their ſubjects, is, a <hi>Tegal Title</hi> to that <hi>Supremacy</hi> they have over people. If that be wanting, The beſt <hi>Laws</hi> and <hi>Conſtitutions</hi> they can make, or promote, will not be ſatisfactory. And eſpeci<g ref="char:EOLhyphen"/>ally the <hi>Penal</hi> part of the <hi>Law,</hi> will be ſo far from ſatisfy<g ref="char:EOLhyphen"/>ing, as that it will inrage; though both the <hi>Law,</hi> and the <hi>Execution</hi> of it, be in it ſelf <hi>Juſt.</hi> For this is written upon mine, and every mans ſpirit, by the indelibel <hi>Law</hi> of <hi>Na<g ref="char:EOLhyphen"/>ture,</hi> not to take unkindely the blows of a <hi>Father,</hi> though he miſtake, and I deſerve not <hi>Correction.</hi> When as, I ſhall as naturally deſpiſe that perſon that hath nothing to do with me, and hath no ſuperiority (of right) over me, if he gives me but <hi>Reprehenſory</hi> words; Yea, though I may <hi>de facto</hi> deſerve them.</p>
+               <p>Now, if we Conſider what <hi>Legality</hi> they have to the <hi>Supremacy,</hi> according to the general apprehenſion of the people; how can they hope for other, but that their <hi>In<g ref="char:EOLhyphen"/>dulgencies,</hi>
+                  <pb n="9" facs="tcp:168780:5"/>
+will not winne upon affections, and their ſeve<g ref="char:EOLhyphen"/>rities will at laſt, rather enrage, than ſtrike a reverential awe upon the ſpirits of people; Every one being now, al<g ref="char:EOLhyphen"/>moſt of this opinion, <hi>(viz)</hi> That beſides the known right of the King, and that <hi>major part</hi> of the <hi>Parliament,</hi> conſiſting of Lords and Commons excluded by them, (though intitled to the <hi>Legislative</hi> power by the old <hi>Fun<g ref="char:EOLhyphen"/>damental</hi> laws of the Nation) that they are out of doors, by the death of the laſt <hi>King;</hi> his grant for their <hi>perpetua<g ref="char:EOLhyphen"/>tion</hi> (were they a full Houſe) expiring with him: For, he can no more oblige his <hi>Heir</hi> to ſuch a performance (it being through a tumultuary force, and intrenchment up<g ref="char:EOLhyphen"/>on a reaſonable prerogative) than a preſent poſſeſſor of an eſtate in <hi>tayl,</hi> can grant away either the whole, or part of the <hi>inheritance,</hi> from his <hi>heir at Law,</hi> and that <hi>obligatory</hi> to his <hi>Succeſſor.</hi>
+               </p>
+               <p>Beſides, Sir <hi>H. Vane</hi> his ſpitefull remembring them of their <hi>Act</hi> (the day before the laſt rout, and that now ſtand<g ref="char:EOLhyphen"/>ing upon record) for their diſſolving, (and not adjourn<g ref="char:EOLhyphen"/>ing) hath not a little weakned the preſent powers <hi>preten<g ref="char:EOLhyphen"/>ſions</hi> to legality.</p>
+               <p>More might be ſaid on this head; but Ile wave that <hi>ſu<g ref="char:EOLhyphen"/>perfluity,</hi> having ſaid I think enough, to preſage the <hi>inſta<g ref="char:EOLhyphen"/>bility</hi> of this preſent <hi>Power,</hi> from Conſiderations relating to the Power it ſelf.</p>
+            </div>
+            <div type="part">
+               <head>The Army</head>
+               <p>They are any mans mony; though poſſibly there may be ſome diviſions among them as to opinions, which is not much to be minded, ſince the purging, and expulſion of their <hi>phanatick</hi> and <hi>ſectarian</hi> Officers.—And too; as the common Soldiers, if examined well, their may amongſt them be found a great number, that heretofore have actual<g ref="char:EOLhyphen"/>ly been in the <hi>Kings</hi> ſervice; and a greater number, whoſe judgments incline them to take to that party, if they could be ſatisfied, that another <hi>eaſie</hi> imployment would occur to their indigent, and neceſſitous condition. And I do apprehend that there is no more skill wanting, to per<g ref="char:EOLhyphen"/>ſwade them, to ſerve a <hi>divers</hi> intereſt to what they ſeem to ſerve, than he hath, that knows how to <hi>Court,</hi> and <hi>Win a Miſtris,</hi> that is only <hi>Coy</hi> in pretence.</p>
+               <pb n="10" facs="tcp:168780:6"/>
+               <p>Again, Conſider that the new Officers put in place of the <hi>Walling fordians,</hi> are moſt of them of <hi>Presbyerian</hi> inte<g ref="char:EOLhyphen"/>reſt, and <hi>principles;</hi> and, which way that looks, all the world now knows ſo well, that it is folly for any that mention it, to draw over it any <hi>tiffany</hi> or veil.</p>
+               <p>Moreover, the <hi>Soldier,</hi> whatever his perſwaſion, or in<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<g ref="char:EOLhyphen"/>reſt <hi>(beſides pay)</hi> may be, muſt neceſſarily underſtand, that this <hi>Parliaments</hi> chiefeſt concern (even beyond the <hi>countermine,</hi> and <hi>oppoſition</hi> to the <hi>common enemy)</hi> muſt be, the keeping them in <hi>ſubjection,</hi> and in ſuch, that they may diſcard, purge, order, model <hi>ad libi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>um,</hi> ſo as to prevent the ſeveral <hi>forces,</hi> which through former <hi>preſidents,</hi> they are both acquainted with, and inclined to.</p>
+            </div>
+            <div type="part">
+               <head>The Sectaries.</head>
+               <p>They are ſuch, either upon the ſcore of <hi>deluſion,</hi> or <hi>ſelf<g ref="char:EOLhyphen"/>end;</hi> the latter of which, I conceive to be the weakeſt intereſt in the Nation. For we begin well enough to eſpy the cheat of either <hi>ſelf-advancement,</hi> or <hi>inriching,</hi> by the ſpe<g ref="char:EOLhyphen"/>cious <hi>pretence</hi> of <hi>Religion.</hi> And there is none that have been <hi>ſufferers,</hi> (which kinde of men are very numerous) but their fingers <hi>itch,</hi> to be plucking <hi>off</hi> the <hi>painted feathers,</hi> that are <hi>imped</hi> into the wings of ſuch <hi>diſſembling daws.</hi> And for ſuch which are <hi>deluded,</hi> and ſo follow the dictates of an erroneous <hi>conſcience,</hi> it will not be wide of the matter, if it be aſſerted with confidence; <hi>That conſcience if it be not urged to ſpeedy action, it <gap reason="illegible" resp="#UOM" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>urally follows the dictates of reaſon;</hi> Which, if there be leiſure enough given for what is natural<g ref="char:EOLhyphen"/>ly redicated in the ſoul of man, to exſert it ſelf, it may in time be brought to right concluſion; or in a little time, be brought to a <hi>biviom</hi> uncertainty. If the firſt, they will ſoon concur with what is aſſerted; if the laſt, the hands of the <hi>phanatick</hi> will ſo ſufficiently be <hi>palſied;</hi> that motion, and activity will by conſequence without any great diffi<g ref="char:EOLhyphen"/>culty, be either <hi>delayed</hi> or <hi>diverted.</hi>
+               </p>
+               <p>But ſuppoſe we do grant, that they are paſt hope of re<g ref="char:EOLhyphen"/>coverie from the ſpiritual diſeaſe they have contracted, by drinking in of poiſoned waters (which is the worſt that can be ſuppoſed) I conceive the preſent <hi>Powers</hi> favou<g ref="char:EOLhyphen"/>ring their Intereſt, will rather weaken, than ſtrengthen
+<pb n="11" facs="tcp:168780:6"/>
+their own; for 'tis plainlie ſeen by anie one (that will not be wilfullie blind) that the <hi>Engliſh Sectaries</hi> are of ſuch <hi>Spirits</hi> and <hi>Principles,</hi> that they will be pleaſed with no <hi>Power</hi> that ſhall be ſet over them; but howſoever they be favoured or indulged, the <hi>Liberty</hi> that is given will make them the more preſume upon <hi>factious</hi> Contrivances: that being one tough humour of theirs, not to be moved by all the <hi>politick</hi> medicines, even to count is <hi>Religion,</hi> to op<g ref="char:EOLhyphen"/>poſe and contradict the preſent <hi>Superiority</hi> whatever it be, as it was lately in a very publick place diſcourſed by two eminent <hi>Sectaries</hi> of very different perſwaſions; and con<g ref="char:EOLhyphen"/>cluded by them both, that a <hi>Single Perſon</hi> were the beſt <hi>Medium</hi> to promote their various intereſts, and I (though different from them both) do concur with them in this, That that <hi>Centre</hi> wherein ſuch diſtant <hi>lines</hi> meet, will prove the beſt <hi>Baſis</hi> for a future Settlement.</p>
+               <p>But ſuppoſing they do not generallie <hi>ſtumble</hi> upon ſuch an <hi>expedient,</hi> but that things proceed according to the pre<g ref="char:EOLhyphen"/>ſent appearing eſtabliſhment, It will be found a difficult thing for any particular intereſt (whoſe divers applica<g ref="char:EOLhyphen"/>tions are verie frequent) to <hi>acquieſie</hi> in the determinations of, or to gain ſatisfaction in, anie thing that is deſired from a company (they know) divided in intereſt, every man being apt to promote his peculiar <hi>Party,</hi> though with an <hi>unbecoming neglect</hi> of the <hi>publick:</hi> hoping to <hi>waft</hi> himſelf ſafely over the troubleſome ſurg<gap reason="illegible" resp="#UOM" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> our diſtracted times, in a private <hi>Bottom</hi> of his own.</p>
+               <p>To conclude this, their humors being ſo various and different, and being much a ſtranger either to their Princi<g ref="char:EOLhyphen"/>ples or practices, and believing they will dailie, if not hourly ſuggeſt to themſelves (from what is hinted) more reaſons than I can furniſh them with, I am inclined to be<g ref="char:EOLhyphen"/>lieve that the <hi>non ultra</hi> of thoſe that have any thing of brain or conſcience left them, will be to ſubſcribe to the <hi>capital aſſertion.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Foreiners.</head>
+               <p>The univerſally received rule of <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> and <hi>providence</hi> trumpets forth this certainty, <hi>That no perſon or nation can ſubſiſt without the mutual aſſiſtance of a private or publick neigh<g ref="char:EOLhyphen"/>bourhood.</hi>
+                  <pb n="12" facs="tcp:168780:7"/>
+—But now, whilſt this <hi>Power</hi> that is in being continues, as we have not at preſent, ſo can we not upon any rational grounds expect for the future any <hi>Cordial</hi> or <hi>advantagious</hi> forein <hi>Correſpondency;</hi> for they are not ſo much contemned at home, but as much abroad, and the name of an <hi>Engliſh man</hi> for <hi>their</hi> ſakes.</p>
+               <p>Applications from <hi>Foreiners</hi> do <hi>de facto</hi> ceaſe, As either apprehending the preſent <hi>Power,</hi> not to be worth the minding, or becauſe there hath beeen ſo much variation and inconſtancy in our <hi>Supreme authority,</hi> that they doubt, that by that time their <hi>Envoies</hi> and Agents have their <hi>in<g ref="char:EOLhyphen"/>structions,</hi> and come to ſet their foot upon <hi>Engliſh Shores,</hi> thoſe to whom their Meſſages have been directed, may in all probability not be found.</p>
+               <p>But ſuppoſe they do continue ſo long: <hi>Ambaſſadors</hi> when they come, find not that <hi>ſplendour</hi> which ſtrikes an <hi>awe</hi> and <hi>ſeriouſneſſe</hi> upon the <hi>ſpirits</hi> of <hi>State-Miniſters;</hi> (for let me ſpeak my apprehenſions) however it may be thought by wiſe men, that the <hi>pomp</hi> and <hi>ceremony</hi> of <hi>Reli<g ref="char:EOLhyphen"/>gion</hi> may eat out the ſubſtance and reality, when it exceeds meaſure: yet undoubtedly that <hi>ſplendour</hi> (which the <hi>morti<g ref="char:EOLhyphen"/>fied Hermite</hi> may call <hi>pageantry)</hi> is a thing very requiſite to make power and Supremacy awfull and regarded. But as to us, when forein <hi>Sereniſſimos</hi> ſhall come to apply them<g ref="char:EOLhyphen"/>ſelves to our <hi>great Maſters</hi> (eſpecially after a <hi>ſelf-denying Or<g ref="char:EOLhyphen"/>dinance)</hi> they may ch<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ce to find ſome of them in the <hi>Fleet,</hi> or <hi>Upper Bench,</hi> or if they ſhould ask after the <hi>pala<g ref="char:EOLhyphen"/>ces</hi> of ſuch that have better fortunes, it will in likelihood be told them, that his or their Lodging is at the <hi>Cat</hi> and <hi>Fiddle</hi> in ſuch an <hi>allie,</hi> and what repute this gains with <hi>fo<g ref="char:EOLhyphen"/>reiners,</hi> let all that have travelled imagine.</p>
+               <p>But to ſpeak (as I apprehend) more to the purpoſe, What foreiner is there that may be in ſuch a condition, as either to be <hi>afraid</hi> of us, or may be readie to <hi>court</hi> us for either <hi>bene<g ref="char:EOLhyphen"/>fit</hi> or <hi>aſsiſtance</hi> from us; for theſe are the motives to our grounds of forein Leagues; 'tis true, were our hearts uni<g ref="char:EOLhyphen"/>ted, we are a Nation as expert in Martial affairs at this time, that there is no one Nation, but may be afraid of us: But alas! how to conquer or keep down the <hi>Common
+<pb n="13" facs="tcp:168780:7"/>
+Enemy,</hi> is object ſufficient for our ſtudies and couragi<g ref="char:EOLhyphen"/>ous indeavours; and who is that Common Enemy now? but <hi>ninety nine</hi> parts of our own Nation, if they were to be caſt into an hundred portions.—But if we conſider particular Nations, where is one in the <hi>European</hi> world, that we have not either <hi>provoked,</hi> or that are not very <hi>weak</hi> &amp; ruined, or that wait not to make their <hi>Markets</hi> on us, as oc<g ref="char:EOLhyphen"/>caſion ſhall ſerve? <hi>Spain</hi> we have provoked by aſſiſting <hi>France</hi> againſt them, and by the protracted war that hath been between us theſe three years paſt. <hi>France</hi> cannot forget what injuries we did them when we upheld <hi>Spain</hi> againſt them. And we cannot expect other, but that they uniting ſhould remember our miſchiefs to both, <hi>Portugal</hi> we waſted, and though we ſhould enter into a ſtrict union, 'tis now to no purpoſe, they are ſo low. <hi>Holland</hi> cannot forget our <hi>Naval</hi> injuries, and would rejoice to ſee our ruine. What impediments have we been to the affairs of <hi>Denmark,</hi> and if we ſhould indeavour to hold up the head of ſinking <hi>Swedeland,</hi> what account would it turn to? or may we ex<g ref="char:EOLhyphen"/>pect anie great matters from the diſtreſſed Proteſtants of <hi>Lucerne, Angrona,</hi> and the <hi>Poliſh Borderers?</hi> Thoſe if anie we have obliged by our large and charitable benevolencies towards them when diſtreſſed, had we not plaied the trick of a <hi>skittiſh Cow, which having given a good pail of milk, kicks it down with her foot;</hi> Had we not converted thoſe vaſt ſums which were ſo trulie beſtowed for their relief to other u<g ref="char:EOLhyphen"/>ſes, and thoſe poor creatures ſcarce anie thing the better.</p>
+               <p>In a word, as to eſpouſing or ballancing <hi>forein</hi> intereſts, we have (almoſt for theſe twentie years paſt) rather plaid the fool, than the States men: this being principallie con<g ref="char:EOLhyphen"/>ſidered, we having trifled awaie the <hi>Support</hi> of our Nation, and that which all the world have voted to be the <hi>Engliſh</hi> ſtancheſt intereſt, and that is <hi>Trading.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>General Monk.</head>
+               <p>
+                  <hi>Justine</hi> mentions a cunning worſhipper of the Riſing Sun, who while all the Nobles and people were looking towards the <hi>East,</hi> (an bitious of the firſt ſalute) quite con<g ref="char:EOLhyphen"/>trarie turned his face to the <hi>Weſt,</hi> and by the reflection of of its early be<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ms upon the tops of the houſes directlie op<g ref="char:EOLhyphen"/>posite, made the firſt diſcoverie.</p>
+               <p>
+                  <pb n="14" facs="tcp:168780:8"/>
+So we notwithſtanding the old <hi>Adage</hi> ſayes, <hi>Ab Aquilos ne omne malum,</hi> have been ſome few months ſtaring towards that point (while our eyes are almoſt wearie) to ſee whe<g ref="char:EOLhyphen"/>ther we could diſcover the approach of the refreſhing beams of a <hi>Free Parliamentary</hi> intereſt (vvhich moſt are now of opinion muſt riſe from the <hi>South)</hi> and no diſſwa<g ref="char:EOLhyphen"/>ſions of the timorous, or confidences of the conttarie min<g ref="char:EOLhyphen"/>ded could ſhake our belief, but that <hi>General Monk</hi> was the <hi>Poſtilion</hi> to <hi>Phoebus</hi> his Chariot</p>
+               <p>And when the riddies of his myſterious Declarations &amp; Meſſages have been oppoſed as an Argument to baffle our hopes, we have look'd on thoſe rather as motives to ſtreng<g ref="char:EOLhyphen"/>then them, pleaſing our ſelves with a Fancie, that a due<g ref="char:EOLhyphen"/>kiſh Gray, rather than a bright, clear and radiant Morn, is the more cortain <hi>Prognoſtick</hi> of a fair day inſuing; but Mr. <hi>Seat</hi> by his Secretaryſhip (in the anſwer to ſome late applications) making him to ſpeak plain <hi>Engliſh,</hi> without the leaſt tang of that Countrie from whence the great <hi>Co<g ref="char:EOLhyphen"/>lonel</hi> is marched, hath done the Nation this courteſie, even to free them from deluſion, and that <hi>hopeful Perſon</hi> this kindneſſe (I wiſh it prove ſuch) even to draw upon him a double portion of <hi>odium,</hi> in place of that univerſal <hi>love</hi> which began to be in the hearts of the generality of the people towards him, whilſt; they were perſwaded that he would prove (not a promoter of a new <hi>Instrument of government)</hi> but an <hi>Instrument</hi> to promote the revival of our <hi>Fundamental</hi> and antient eſtabliſhed <hi>government.</hi>
+               </p>
+               <p>The concurrent circumſtances that wrought a general belief, that he would be an aſſertor of a <hi>Free Parliament,</hi> or, (as the people univerſally phraſed it) that he would be <hi>honeſt,</hi> were theſe. Some true, ſome poſſibly otherwiſe, yet ſuch which were generally received as true.—</p>
+               <p>As that when Sir <hi>George Booths</hi> buſineſs was on foot, he was not very <hi>zealous</hi> in making proviſion to oppoſe that action.</p>
+               <p>That he ſhould ſoon after manifeſtly appear to be a mortal enemy to <hi>Lambert,</hi> who was deſtructive to that undertaking, <hi>nipping it in the bud.</hi>
+               </p>
+               <p>That he ſpake his deſatisfaction, with proceedings, in the re-admiſſion of this <hi>Parliament,</hi> when <hi>Richard</hi> was un<g ref="char:EOLhyphen"/>horſt.
+<pb n="15" facs="tcp:168780:8"/>
+That when this <hi>Parliament</hi> ſent for him up (as they now have done) (and I ſuppoſe will do his <hi>buſineſs</hi> for him if he <hi>take</hi> not <hi>beed)</hi> he refuſed; pretending for an ex<g ref="char:EOLhyphen"/>cuſe, that by his remove the <hi>Scotiſh</hi> affairs might poſſibly be diſcompoſed.</p>
+               <p>That he never made any actual application to this <hi>Par<g ref="char:EOLhyphen"/>liament</hi> for a Commiſſion, though poſſibly he might re<g ref="char:EOLhyphen"/>ceive that <hi>ticket</hi> which made him a <hi>Commiſſioner</hi> and a <hi>Colo<g ref="char:EOLhyphen"/>nel</hi> (a more honorable place no doubt, under them, than General under <hi>Cromwel)</hi> yet we never heard of any re<g ref="char:EOLhyphen"/>turns on his part (as the manner was then) of an <hi>engage<g ref="char:EOLhyphen"/>ment</hi> to <hi>fidelity.</hi>
+               </p>
+               <p>And then, while the <hi>Committee</hi> of <hi>Safety</hi> was <hi>Trump,</hi> we were full of it, that the <hi>Scots Convention</hi> had voluntarily given him a years tax in hand.</p>
+               <p>Beſides which, there was none but were bold to ſay he had received no ſmall ſums of <hi>Forein Coyn,</hi> and ſome ſup<g ref="char:EOLhyphen"/>ply of <hi>Armes.</hi>
+               </p>
+               <p>And it is preſumed, that the City were incouraged by the hopes they had of him, when they <hi>pluckt up</hi> their <hi>ſpirits</hi> and <hi>declared</hi> for a <hi>Free Parliament;</hi> Even then, when they were threatened, and feared daily to have their houſes fired a<g ref="char:EOLhyphen"/>bout their ears with <hi>Granadoes.</hi>
+               </p>
+               <p>Beſides all this, there were other things whiſpered con<g ref="char:EOLhyphen"/>cerning him, that gave ſome perſons greater aſſurance than all this. If they were <hi>Secrets</hi> they are not fit to be publiſh<g ref="char:EOLhyphen"/>ed, if <hi>Lies,</hi> leſs fit.</p>
+               <p>But if there be any hopes left concerning him, they are upon theſe grounds, <hi>(viz)</hi> The firſt <hi>Oaths</hi> he ſeaſoned his conſcience with, (and <hi>Que ſemel eſt imbuta recons ſervabit <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>do<g ref="char:EOLhyphen"/>rem Teſtu diu)</hi> were thoſe of <hi>Allegeance,</hi> and <hi>Supremacy.</hi> He being an underſtanding perſon, muſt underſtand this, or nothing; even, that an <hi>Oath</hi> is a <hi>Sacred thing,</hi> by which tie he was obliged not only to the late <hi>King</hi> himſelf, but his Heirs, Now, whether through diſtaſt, (as ſome) or like a Soldier (as others ſay) he declined that cauſes when he could do no more <hi>Perſonal ſervice</hi> 
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and obliged himſelf to the <hi>Protector,</hi> he took no contrary <hi>Oath,</hi> or if he made a pro<g ref="char:EOLhyphen"/>miſe, it was not to him, and his Heirs, or other Succeſſors,
+<pb n="16" facs="tcp:168780:9"/>
+and ſo may be lookt upon as <hi>free</hi> from any obligations, except he hath privately of late tyed himſelf up, by any <hi>En<g ref="char:EOLhyphen"/>gagements,</hi> which the world hath not yet heard, or taken notice of.</p>
+               <p>Again, if he be not extreamly deluded, and talked out of his <hi>prudentials</hi> by Mr. <hi>Scot,</hi> and Mr. <hi>Luke Robinſon,</hi> he muſt needs underſtand himſelf <hi>to hold an-gel by the tail,</hi> while he eſpouſes this preſent ſlipery, and ticklifh intereſt (which appears to be ſo by the foregoing, and ſubſequent reaſons) But ſuppoſe it would be as durable, as ſtory tells us the <hi>Venetian</hi> State hath been, the moſt he can hope for, is but to be a <hi>teste de Bois</hi>—But if he looks back, and takes the begining of our troubles for his <hi>horizon,</hi> and conſiders how <hi>Eſſex</hi> was laid a ſide with ignominy; <hi>Fairfax</hi> uncommiſſioned, after all his great and Expeditious ſervi<g ref="char:EOLhyphen"/>ces; <hi>Cromwel,</hi> after his death branded with the name of <hi>Tyrant</hi> and <hi>Traytor; Lambert</hi> before he had ſcarce wip'd the ſweat from his victorious brows, after his atchievements againſt the new branch of the <hi>Common enemy,</hi> ſhamefully laid aſide with a trifling benevolence of an <hi>Act of Indemp<g ref="char:EOLhyphen"/>nity; Fleetwood</hi> ſent home by <hi>weeping-Croſs:</hi> It were enough methinks, to ſmother any <hi>ambitions hopes</hi> of <hi>greatneſſe,</hi> or any <hi>hardy confidence</hi> of ſo much as <hi>ſecurity,</hi> in the birth, e<g ref="char:EOLhyphen"/>ſpecially being a ſervant (as he poſſibly in Complement profeſſes himſelf to be) to ſuch Maſters, ſo ſuſpicious, ſo derided, ſo hated, and ſtriving againſt the ſtream of the whole Nations inclihations, we having ſpent our whole ſtock of wanton blood, and are by poverty, forced unani<g ref="char:EOLhyphen"/>mouſly to cry out, if not ready to ſight for <hi>Peace,</hi> and a <hi>livelihood,</hi> and not for <hi>tricks</hi> and <hi>Fancies.</hi>
+               </p>
+               <p>I will not trouble you further, than by the addition of one argu<g ref="char:EOLhyphen"/>ment more, for the: backing of the <hi>Capital aſſertion,</hi> And that is, That he that Writes this freely, and imgenuouſly, acknowledgeth himſelf to have been one of thoſe thouſand <hi>well meaning Perſons,</hi> that in the be<g ref="char:EOLhyphen"/>gining of our unhappy times was deluded with thoſe fair and Religi<g ref="char:EOLhyphen"/>ons pretences that were then on foot, but now, penilently and hear<g ref="char:EOLhyphen"/>tily begs <hi>God,</hi> his <hi>King,</hi> and his <hi>Country</hi> forgiveneſſe; being willing to hazzard yea ſacrifice all his private Intereſt, for the advancement of the publique wellfare, for which he prayes; and conceives the only remedy and Expedient to be A FREE PARLIAMENT.</p>
+            </div>
+            <closer>
+               <dateline>Black <hi>Monday,</hi> 
+                  <date>Jan. 30. 1660.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>Henry Brome</hi> at the Gun in <hi>Ivy-Iane.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
